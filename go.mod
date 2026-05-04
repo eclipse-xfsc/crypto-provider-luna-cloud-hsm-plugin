@@ -8,7 +8,7 @@ require (
 	github.com/ThalesIgnite/crypto11 v1.2.5
 	github.com/eclipse-xfsc/crypto-provider-core v1.4.1
 	github.com/spf13/viper v1.17.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 )
 
 require (
